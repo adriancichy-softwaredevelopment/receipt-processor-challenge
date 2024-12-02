@@ -1,0 +1,46 @@
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Compiled Java class files
+*.class
+
+# Log files
+*.log
+
+# Maven target directory
+target/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# JetBrains-specific files
+out/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE settings
+/.vscode/
+/nbproject/
+
+# Other configuration files
+*.env
+
+# Coverage reports
+*.eml
+*.class
+/test-output/
+.sonar/
+coverage-reports/
